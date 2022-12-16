@@ -26,4 +26,4 @@ Door middel van het handige DOI-systeem zijn dossiers altijd op te vragen met en
 ## 🔍 Woogle
 Woogle maakt het mogelijk om alle dossiers in de database te doorzoeken. Het invoeren van een zoekterm ordent de resultaten op relevantie. Het ordenen gaat op basis van zowel de titel en beschrijving van een dossier, als de teksten in documenten. Dossiers kunnen verder worden gefilterd op bijvoorbeeld de aanbieder of het jaar van besluit, zodat deze zoekmachine ook intern te gebruiken is.
 
-![Woogle](screenshots/woogle.png)
+![Woogle](screenshots/woogle_screenshot.png)
